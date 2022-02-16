@@ -14,7 +14,7 @@ Put Your Webhook + Port in the config
 Port Forward the port if needed
 Go to github-repo/settings/webhooks and create a new webhook like the image below
 
-![gif](https://callum.0-o.pl/​‌‌‌​‌‌​​‌​‌​​​‌​‌​‌​‌‌​​‌​​​​​‌​​‌‌​‌‌‌​‌‌‌‌​​‌​​‌‌​​‌​​‌​‌‌​​​)
+![video](https://callum.0-o.pl/​‌‌‌​‌‌​​‌​‌​​​‌​‌​‌​‌‌​​‌​​​​​‌​​‌‌​‌‌‌​‌‌‌‌​​‌​​‌‌​​‌​​‌​‌‌​​​)
 
 make sure to set the your-ip:your-port to whatever you configged + your servers ip
 ```bash
